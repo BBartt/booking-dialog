@@ -1,0 +1,28 @@
+{
+  "name": "material-ui-booking-dialog",
+  "version": "1.0.0",
+  "description": "material-ui dialog with date picker",
+  "main": "index.tsx",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BBartt/booking-dialog.git"
+  },
+  "keywords": [
+    "material-ui",
+    "dialog",
+    "date-picker"
+  ],
+  "author": "bbartt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BBartt/booking-dialog/issues"
+  },
+  "homepage": "https://github.com/BBartt/booking-dialog#readme"
+}
